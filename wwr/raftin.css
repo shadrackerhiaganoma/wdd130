@@ -7,6 +7,7 @@ body{
   }
   
   header {
+<<<<<<< HEAD
     display: grid;
     grid-template-columns: auto 1fr; /* Creates two columns: one for logo and another for nav */
     align-items: center; /* Vertically centers content */
@@ -58,6 +59,8 @@ figure {
 
 
   header {
+=======
+>>>>>>> 8ba2ff0 ("changes made")
     background-color: rgb(20, 103, 204);
     color: antiquewhite;
     padding: 10px;
