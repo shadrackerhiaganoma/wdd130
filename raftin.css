@@ -1,16 +1,16 @@
 body{
     font-family: 'Roboto', sans-serif;
-    margin: 0;
-    padding: 0;
+    margin: 20;
+    padding: 10;
     background-color: #f0f8ff;
     box-sizing: border-box;
   }
   
   header {
     display: grid;
-    grid-template-columns: auto 1fr; /* Creates two columns: one for logo and another for nav */
+    grid-template-columns: auto 11fr; /* Creates two columns: one for logo and another for nav */
     align-items: center; /* Vertically centers content */
-    padding: 16px; /* Adds space around the header */
+    padding: 56px; /* Adds space around the header */
 }
 
 .logo img {
@@ -25,8 +25,8 @@ nav {
 
 nav ul {
     list-style: none; /* Removes bullet points */
-    padding: 0; /* Removes default padding */
-    margin: 0; /* Removes default margin */
+    padding: 10; /* Removes default padding */
+    margin: 10; /* Removes default margin */
     display: flex; /* Displays nav items inline */
 }
 
@@ -79,7 +79,7 @@ figure {
   }
   
   main {
-    max-width: 648px;
+    max-width: 848px;
   }
   
   main img {
