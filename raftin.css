@@ -8,9 +8,9 @@ body{
   
   header {
     display: grid;
-    grid-template-columns: auto 11fr; /* Creates two columns: one for logo and another for nav */
-    align-items: center; /* Vertically centers content */
-    padding: 56px; /* Adds space around the header */
+    grid-template-columns: auto 11fr; 
+    align-items: center; 
+    padding: 56px;
 }
 
 .logo img {

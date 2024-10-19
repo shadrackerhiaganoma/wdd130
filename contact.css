@@ -35,7 +35,10 @@ main {
 }
 
 .company-info, .employee-profiles, .contact-form {
-    margin-bottom: 20px;
+    margin-bottom: 40px;
+    flex: 2 2 40%; /* Adjusts each image to take approx 30% of the width */
+    margin: 20px;
+    display: flexbox;
 }
 
 .employee {
