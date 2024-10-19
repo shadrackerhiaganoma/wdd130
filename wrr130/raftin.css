@@ -35,8 +35,8 @@ nav li {
 }
 
 .gallery {
-    display: flex; /* Aligns figure elements horizontally */
-    flex-wrap: wrap; /* Allows items to wrap into multiple lines if needed */
+    display: grid; /* Aligns figure elements horizontally */
+    grid: auto/1fr 1fr 1fr; /* Allows items to create three colums and the row's will be automatically created */
 }
 
 figure {
@@ -57,7 +57,7 @@ figure {
 
 
 
-  header {
+header {
     background-color: rgb(20, 103, 204);
     color: antiquewhite;
     padding: 10px;
