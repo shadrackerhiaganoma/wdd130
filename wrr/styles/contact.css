@@ -48,10 +48,12 @@ main {
 }
 
 .employee img {
-    width: 60px;
-    height: 60px;
-    border-radius: 30px;
+    width: 100px;
+    height: 100px;
+    /* height: 60px; */
+    border-radius: 50%;
     margin-right: 15px;
+    object-fit: cover;
 }
 
 .contact-form label {
