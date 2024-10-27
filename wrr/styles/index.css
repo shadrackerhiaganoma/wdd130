@@ -27,7 +27,7 @@ nav ul li {
 }
 
 nav a {
-    color: #fff;
+    color: #f4f1f1;
     text-decoration: none;
 }
 
@@ -37,8 +37,9 @@ nav a {
 
 .hero {
     position: relative;
-    text-align: center;
-    color: white;
+    text-align: justify; 
+    color: rgb(255, 247, 247);
+    text-shadow: #000000 ;
 }
 
 .hero img {
