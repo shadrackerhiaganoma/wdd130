@@ -11,10 +11,19 @@ body {
 }
 
 header {
-    background: #4093f3;
-    color: #fff;
-    padding: 10px 0;
+    background-color: rgb(20, 103, 204);
+    color: antiquewhite;
+    padding: 10px;
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
 }
+header .logo img{
+    max-width: 150px;
+    box-shadow: 10rem;
+    padding: 10px;
+    display: grid;
+  }
 
 nav ul {
     list-style: none;
