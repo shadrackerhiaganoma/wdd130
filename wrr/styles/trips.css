@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background: #4093f3;
+    background: #3595da;
     color: #fff;
     padding: 10px 0;
 }
@@ -71,14 +71,14 @@ nav a {
 
 .newsletter button {
     padding: 10px 15px;
-    background: #1d7fe6;
+    background: #1c8cdc;
     color: #fff;
     border: none;
     cursor: pointer;
 }
 
 .newsletter button:hover {
-    background: #0fa6fe;
+    background: #2697ed;
 }
 
 .cta {
@@ -95,7 +95,7 @@ nav a {
 }
 
 .cta .btn:hover {
-    background: #e6b800;
+    background: #3198ec;
 }
 
 .trips {
@@ -106,7 +106,7 @@ nav a {
 }
 
 .trips article {
-    background: #f0f0f0;
+    background: #f2f0f0;
     padding: 20px;
     border-radius: 8px;
     text-align: center;
@@ -120,6 +120,6 @@ nav a {
 footer {
     text-align: center;
     padding: 10px 0;
-    background: #2d91ef;
+    background: #2884ee;
     color: #fff;
 }
